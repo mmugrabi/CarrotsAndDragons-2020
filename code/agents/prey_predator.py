@@ -208,7 +208,7 @@ class Predator(RandomWalker):
               
         elif spring :    
             for i in range(3): #new
-                #regarde dans un rayon de 6 cases pour trouver un partenaire pour la BAISE
+                #regarde dans un rayon de 6 cases pour trouver un partenaire pour se reproduire
                 next_moves = self.model.grid.get_neighborhood(self.pos, self.moore, False, 6)#new
                 cell_list_contents = [self.model.grid.get_cell_list_contents(i) for i in next_moves]#new
                 for obj in cell_list_contents:#new
