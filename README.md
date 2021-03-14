@@ -2,8 +2,8 @@
 
 __FR Version :__
 
-Si vous n'avez pas Python sur votre pc, vous pouvez télécharger le prey_predator.zip sur votre pc.
-Celui-ci contient un exécutable "run.exe" et un dossier mainDir qui contient les images qui seront afficher pendant la simulation.
+Si vous n'avez pas Python sur votre pc, vous pouvez télécharger le prey_predator.zip dessus.
+Celui-ci contient un exécutable "run.exe" et un dossier mainDir qui contient les images qui seront affichées pendant la simulation.
 Après avoir lancé le .exe, l'application prendra entre 15 et 30 secondes pour démarrer.  
 
 ⚠ Il est fort probable que votre OS et anti-virus vous indique, lors du lancement du "run.exe", que celui-ci est un programme "dangereux". N'ayez crainte et appuyez sur "Exécuter quand même". Cette alerte est déclenchée car l'OS n'a pas suffisament d'information sur l'éditeur du fichier. (Il est possible que vous soyez dans l'obligation d'ajouter une exception dans votre antivirus pour votre fichier afin de le lancer.) ⚠
@@ -13,7 +13,7 @@ ___Lien pour télécharger le .zip : https://drive.google.com/file/d/1S7hkq_dm1d
 
 
 Si vous avez Python, vous pouvez télécharger le code disponible sur ce répertoire github. 
-Normalement, le code installe le package mesa de lui-même. 
+Normalement, le code installe le package Mesa de lui-même. 
 Pour exécutez le code, entrez la commande suivante dans votre terminal : "python3 run.py" (Assurez-vous d'être dans le bon dossier !)
 
 ___Voici un lien vers la librairie mesa qui nous a énormément aidé dans l'élaboration de ce projet : https://mesa.readthedocs.io/en/stable/index.html___
@@ -21,7 +21,7 @@ ___Voici un lien vers la librairie mesa qui nous a énormément aidé dans l'él
 
 __EN Version :__
 
-If you don't have Python on your PC, you can download the prey_predator.zip to your PC.
+If you don't have Python on your PC, you can download the prey_predator.zip on it.
 This contains an executable "run.exe" and a mainDir folder which contains the images that will be displayed during the simulation.
 After running the .exe, the application will take between 15 and 30 seconds to start.  
 
@@ -32,7 +32,7 @@ ___Link to download the .zip: https://drive.google.com/file/d/1S7hkq_dm1dyo09OfI
 
 
 If you have Python, you can download the code from this github repository. 
-Normally, the code installs the mesa package by itself. 
+Normally, the code installs the Mesa package by itself. 
 To run the code, enter the following command in your terminal: "python3 run.py" (Make sure you are in the right folder!)
 
 
