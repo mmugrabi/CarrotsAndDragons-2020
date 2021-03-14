@@ -4,9 +4,9 @@ __FR Version :__
 
 Si vous n'avez pas Python sur votre pc, vous pouvez télécharger le prey_predator.zip sur votre pc.
 Celui-ci contient un exécutable "run.exe" et un dossier mainDir qui contient les images qui seront afficher pendant la simulation.
-Après avoir lancé le .exe, l'application prendra entre 15 et 30 secondes pour démarrer.
+Après avoir lancé le .exe, l'application prendra entre 15 et 30 secondes pour démarrer.  
 
-/!\ Il est fort probable que votre OS et anti-virus vous indique, lors du lancement du "run.exe", que celui-ci est un programme "dangereux". N'ayez crainte et appuyez sur "Exécuter quand même". Cette alerte est déclenchée car l'OS n'a pas suffisament d'information sur l'éditeur du fichier. (Il est possible que vous soyez dans l'obligation d'ajouter une exception dans votre antivirus pour votre fichier afin de le lancer.) /!\
+⚠ Il est fort probable que votre OS et anti-virus vous indique, lors du lancement du "run.exe", que celui-ci est un programme "dangereux". N'ayez crainte et appuyez sur "Exécuter quand même". Cette alerte est déclenchée car l'OS n'a pas suffisament d'information sur l'éditeur du fichier. (Il est possible que vous soyez dans l'obligation d'ajouter une exception dans votre antivirus pour votre fichier afin de le lancer.) ⚠
 
 
 ___Lien pour télécharger le .zip : https://drive.google.com/file/d/1S7hkq_dm1dyo09OfIFJfc9Eiay1I55kQ/view?usp=sharing___
@@ -23,9 +23,9 @@ __EN Version :__
 
 If you don't have Python on your PC, you can download the prey_predator.zip to your PC.
 This contains an executable "run.exe" and a mainDir folder which contains the images that will be displayed during the simulation.
-After running the .exe, the application will take between 15 and 30 seconds to start.
+After running the .exe, the application will take between 15 and 30 seconds to start.  
 
-/!\ It is very likely that your OS and anti-virus software will tell you that "run.exe" is a "dangerous" program. Don't worry and press "Run anyway". This alert is triggered because the OS does not have enough information about the file's publisher. (You may need to add an exception in your antivirus software for your file to run it). /!\
+⚠ It is very likely that your OS and anti-virus software will tell you that "run.exe" is a "dangerous" program. Don't worry and press "Run anyway". This alert is triggered because the OS does not have enough information about the file's publisher. (You may need to add an exception in your antivirus software for your file to run it). ⚠
 
 
 ___Link to download the .zip: https://drive.google.com/file/d/1S7hkq_dm1dyo09OfIFJfc9Eiay1I55kQ/view?usp=sharing___
