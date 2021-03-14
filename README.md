@@ -13,7 +13,7 @@ Normalement, le code installe le package mesa de lui-même.
 Pour exécutez le code, entrez la commande suivante dans votre terminal : "python3 run.py" (Assurez-vous d'être dans le bon dossier !)
 
 ___Voici un lien vers la librairie mesa qui nous a énormément aidé dans l'élaboration de ce projet : https://mesa.readthedocs.io/en/stable/index.html___
-===================================================================================================================================================================================
+
 
 __EN Version :__
 
